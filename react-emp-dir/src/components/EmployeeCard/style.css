@@ -1,0 +1,24 @@
+.card-img-top {
+  width: 12rem;
+  padding-top: 50px;
+  background: rgb(255, 123, 123);
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  padding: 10px;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+}
+.card {
+  background: beige;
+}
+.card-text {
+  color: lime;
+}
+.card-title {
+  color: red;
+}
+.card-body {
+  background: rgb(145, 145, 145);
+}
